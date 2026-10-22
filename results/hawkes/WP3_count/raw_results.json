@@ -1,0 +1,43 @@
+{
+  "status": "CERTIFIED_POSITIVE",
+  "parameters": {
+    "mu": "1/2",
+    "beta": "1",
+    "T": "7/5",
+    "eta": "0+"
+  },
+  "count_truncation_inclusive": 12,
+  "time_cells": 256,
+  "time_cell_width": "7/1280",
+  "nearest_grid_radius": "7/2560",
+  "tail_error_K_A_upper": "0.000000000006205",
+  "tail_error_K_B_upper": "0.000000000022294",
+  "time_error_K_A_upper": "0.003281250000",
+  "time_error_K_B_upper": "0.007382812500",
+  "sampled_K_A_upper": "0.173804856327",
+  "sampled_K_B_upper": "0.185660146446",
+  "global_fixed_A_upper": "0.177086106334",
+  "global_fixed_B_upper": "0.193042958968",
+  "global_fixed_upper": "0.193042958968",
+  "witness_t": "21/25",
+  "witness_policy_x_0_to_N": [
+    "A",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B"
+  ],
+  "witness_lower": "0.206668211407",
+  "witness_oracle_truncated_lower": "0.206668211407",
+  "gap_lower": "0.013625252440",
+  "python": "3.13.15",
+  "random_seeds": []
+}

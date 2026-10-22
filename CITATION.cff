@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated manuscript and archived release."
+title: "S04-AES-Hawkes reproducibility materials"
+version: "0.6.0-rc1"
+authors:
+  - family-names: "Bakon"
+    given-names: "Krisztián Attila"
+    orcid: "https://orcid.org/0000-0003-1882-094X"
+abstract: "Exact-rational certificate materials supporting a bounded stationary Hawkes and matched-Poisson adaptive-observation result."

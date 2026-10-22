@@ -1,0 +1,39 @@
+{
+  "status": "ABLATION_GAP_CERTIFIED_POSITIVE",
+  "scope": "diagnostic first-order signed-score surrogate only; no finite-eta Hawkes claim",
+  "arithmetic": "Python Fraction; all inequalities exact; decimal lower/upper displays directed",
+  "parameters": {
+    "mu": "1/2",
+    "beta": "1",
+    "T": "7/5",
+    "t0": "21/25"
+  },
+  "count_cutoff_inclusive": 12,
+  "time_cells": 256,
+  "time_nodes": 257,
+  "sampled_B_maximizing_node_indices": [
+    17,
+    239
+  ],
+  "exp_minus_lambda_lower": "0.49658530379140951470",
+  "exp_minus_lambda_upper": "0.49658530379140951471",
+  "exp_interval_width_upper": "0.0000000000000000000001",
+  "tail_probability_Q12_upper": "0.00000000003054061351",
+  "tail_probability_Q13_upper": "0.00000000000163783671",
+  "fixed_A_tail_upper": "0.00000000000000000000",
+  "fixed_B_linear_tail_upper": "0.00000000000620447164",
+  "nearest_node_radius": "7/2560",
+  "fixed_B_linear_lipschitz": "1/2",
+  "timing_error_upper": "0.001367187500000",
+  "fixed_A_lower": "0.173804856326993",
+  "fixed_A_upper": "0.173804856326994",
+  "sampled_fixed_B_linear_upper": "0.174887810894386",
+  "global_fixed_B_linear_upper": "0.176254998400590",
+  "global_fixed_upper": "0.176254998400590",
+  "inherited_policy": "B iff 1<=X<=12; A otherwise",
+  "inherited_adaptive_lower": "0.183687019544030",
+  "conservative_gap_lower": "0.007432021143440",
+  "crossing_at_x0_and_x1": true,
+  "python": "3.13.15",
+  "random_seeds": []
+}

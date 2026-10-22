@@ -1,0 +1,16 @@
+{
+  "workpackage": "S04-WP3-COUNT-20261014",
+  "model": "stationary triangular two-mark Hawkes",
+  "mu": "1/2",
+  "beta": "1",
+  "T": "7/5",
+  "eta": "0+",
+  "priors": ["1/2", "1/2"],
+  "first_channel": "A",
+  "decision_times": "all t in [0,T]",
+  "second_channels": ["A", "B"],
+  "count_truncation_inclusive": 12,
+  "time_cells": 256,
+  "witness_t": "21/25",
+  "random_seeds": []
+}

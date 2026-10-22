@@ -1,0 +1,24 @@
+{
+  "status": "CERTIFIED_POSITIVE",
+  "parameters": {
+    "mu": "1/2",
+    "beta": "1",
+    "T": "7/5",
+    "eta": "0+"
+  },
+  "count_truncation_inclusive": 12,
+  "time_cells": 256,
+  "sampled_fixed_B_upper": "0.187552850257",
+  "timestamp_point_count_tail_upper": "0.000000000245",
+  "timestamp_integration_error_upper": "0 (analytic enclosure)",
+  "global_timing_error_upper": "0.013671875000",
+  "global_fixed_A_upper": "0.173804856331",
+  "global_fixed_B_upper": "0.201224725502",
+  "global_fixed_upper": "0.201224725502",
+  "feasible_timestamp_contingent_lower": "0.206668211407",
+  "gap_lower": "0.005443485906",
+  "witness_t": "21/25",
+  "witness_policy": "A if X=0 or X>=13; B if 1<=X<=12",
+  "python": "3.13.15",
+  "random_seeds": []
+}
