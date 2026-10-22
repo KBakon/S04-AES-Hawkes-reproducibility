@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use these materials, please cite the associated manuscript and archived release."
 title: "S04-AES-Hawkes reproducibility materials"
-version: "0.6.0-rc1"
+version: "1.0.0"
 authors:
   - family-names: "Bakon"
     given-names: "Krisztián Attila"
